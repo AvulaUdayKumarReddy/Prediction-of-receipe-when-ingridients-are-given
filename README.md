@@ -1,11 +1,10 @@
-## Project2  
+## Prediction of receipe 
 #### steps to run project2   
 ##### Installation  
 pyenv install 3.10.1  
 pyenv global 3.10.1  
 pip install --upgrade pip  
 ##### Running  
-- cd cs5293sp23-project2/
 - pipenv shell
 - python project2.py --N 5 --ingredient rice --ingredient banana
 - pipenv run python -m pytest (to run test cases)
