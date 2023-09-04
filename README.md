@@ -1,3 +1,4 @@
+## An application that has been built using the ML models (like clustering, supervised) and pickle library which is used to predict the cuisine according to the ingredients given through the command line interface.
 ## Prediction of receipe  
 ##### Installation  
 pyenv install 3.10.1  
